@@ -1,0 +1,10 @@
+{
+  "appId": "spor",
+  "apiKey": "58556e27b91a349213b06c0c3634d00dbeb6762e5169fad17315c9dc3c906840",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
